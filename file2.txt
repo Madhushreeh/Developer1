@@ -6,3 +6,4 @@ good night take care.
 Good afternoon, this is the change done to file2 in master/main branch.
 Good night.
 >>>>>>> 9be3462fc351be7e8c549f5693f0faab1b888856
+good morning...
